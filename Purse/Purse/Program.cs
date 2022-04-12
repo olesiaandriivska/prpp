@@ -6,9 +6,8 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            double f = 0;
-            Console.WriteLine(f);
+            Money.Money m = new Money.Money(Money.Money.Currency.USD, 200);
+            m.PrintValue();
         }
     }
 }
