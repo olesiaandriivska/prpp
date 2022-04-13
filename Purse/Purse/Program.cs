@@ -3,10 +3,10 @@ using NSMoney;
 using NSBusinessCard;
 using Cc;
 
-namespace Purse
+namespace NSPurse
 {
     
-    class Program
+    class Purse
     {
         static void Main(string[] args)
         {
