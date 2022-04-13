@@ -11,7 +11,7 @@ namespace Cc
     {
         public static void Test()
         {
-
+            Console.WriteLine("Доброго вечора, ми з України");
         }
     }
 }
